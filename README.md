@@ -9,7 +9,7 @@
         <h1 align="left">
           <img src="https://readme-typing-svg.demolab.com?font=Cinzel&amp;weight=600&amp;size=28&amp;duration=3500&amp;pause=1200&amp;color=E05275&amp;vCenter=true&amp;width=440&amp;lines=Yuki135;Code%2C+games+%26+little+worlds" width="440" alt="Yuki135 · Code, games &amp; little worlds" />
         </h1>
-        <p align="left"><i>« 把喜欢的世界，写成可以运行的代码。 »</i></p>
+        <p align="left"><i>« 极阴岛做事向来如此。»</i></p>
         <p align="left"><sub>Minecraft Modding · C++ · Web Development</sub></p>
       </td>
     </tr>
